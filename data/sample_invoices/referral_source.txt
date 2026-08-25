@@ -1,0 +1,25 @@
+MEDICAL REFERRAL LETTER
+
+From: Dr. Anna Schmidt
+Praxis für Allgemeinmedizin
+Musterstrasse 12
+80331 Munich, Germany
+dr.schmidt@musterpraxis.de
+
+Referral Date: March 10, 2026
+
+To: Dr. Klaus Weber
+Orthopadische Praxis
+
+Patient Reference Number: REF-8842
+
+Diagnosis: Suspected rotator cuff injury, right shoulder
+
+Reason for Referral: Patient presents with persistent right shoulder pain
+for 6 weeks, limited range of motion. Requesting orthopedic evaluation
+and possible MRI assessment.
+
+Please find enclosed relevant history and prior imaging reports.
+
+Regards,
+Dr. Anna Schmidt

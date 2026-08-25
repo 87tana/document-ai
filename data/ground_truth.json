@@ -1,0 +1,19 @@
+{
+  "test.pdf": {
+    "invoice_number": "INV-3337",
+    "date": "January 25, 2016",
+    "amount": "$93.50",
+    "emails": ["admin@slicedinvoices.com", "test@test.com"],
+    "from": "DEMO - Sliced Invoices",
+    "to": "Test Business"
+  },
+  "referral.pdf": {
+    "document_type": "referral",
+    "reference_number": "REF-8842",
+    "referral_date": "March 10, 2026",
+    "diagnosis": "Suspected rotator cuff injury, right shoulder",
+    "from_doctor": "Dr. Anna Schmidt",
+    "to_doctor": "Dr. Klaus Weber",
+    "emails": ["dr.schmidt@musterpraxis.de"]
+  }
+}
